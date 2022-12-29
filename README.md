@@ -10,16 +10,3 @@
 1. KDT교육과정을 착실하게 수료한다.
 2. 복습에 최선을 다한다.
 3. 2023년 동안 새내기 개발자로써 활동할 수 있는 역량을 키운다.
-
-# branch
-
->## branch 활용
-- branch : 독립적인 작업공간을 만들고 관리
-
->### branch 주요 명령어
-```bash
-git branch [브랜치이름] : 브랜치생성
-git checkout : 브랜치이동
-git merge : 브랜치병합
-git branch -d : 브랜치삭제
-```
