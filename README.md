@@ -1,11 +1,11 @@
 # Who am I ?
 
-## First step to be developer.
+## First step to be developer.👶
 
 - 이제 막 개발자의 꿈을 키워나가고 있습니다.
 - 아직 모르는 것이 너무많지만 조금씩 배워나가는 것에 재미를 느끼고있습니다.
 
-## 나의 목표
+## MY GOAL👊
 
 1. KDT교육과정을 착실하게 수료한다.
 2. 복습에 최선을 다한다.
